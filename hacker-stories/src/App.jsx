@@ -99,7 +99,7 @@ const App = () => {
     
     };
     Item.propTypes = {
-      item: PropTypes.objects,
+      item: PropTypes.object,
     };
     
   
