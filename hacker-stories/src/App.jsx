@@ -108,7 +108,7 @@ const App = () => {
 export default App
 
 
-/** React Prop
+/** React Props
  * Communicate with child components using props.
  * Props pass information from one component to another component.
  * Props are immutable, meaning it can't be changed.
